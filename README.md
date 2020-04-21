@@ -1,2 +1,2 @@
 # API_REST
-Implementação de API REST simples usando DOTNET CORE 2.2.
+Implementação de uma API REST simples usando DOTNET CORE 2.2.
