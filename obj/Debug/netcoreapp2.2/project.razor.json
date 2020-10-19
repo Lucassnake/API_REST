@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\lucas\\source\\repos\\APIREST\\ApiRest.csproj",
+  "FilePath": "/home/lucasfonseca/Dados/Development/Projects/API_REST/APIREST.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2958,7 +2958,7 @@
     ],
     "CSharpLanguageVersion": 703
   },
-  "RootNamespace": "ApiRest",
+  "RootNamespace": "APIREST",
   "Documents": [],
   "SerializationFormat": "0.2"
 }

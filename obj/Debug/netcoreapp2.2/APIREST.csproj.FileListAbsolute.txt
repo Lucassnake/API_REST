@@ -25,3 +25,11 @@ C:\Users\lucas\source\repos\APIREST\obj\Debug\netcoreapp2.2\ApiRest.RazorTargetA
 C:\Users\lucas\source\repos\APIREST\obj\Debug\netcoreapp2.2\ApiRest.dll
 C:\Users\lucas\source\repos\APIREST\obj\Debug\netcoreapp2.2\ApiRest.pdb
 C:\Users\lucas\source\repos\APIREST\obj\Debug\netcoreapp2.2\ApiRest.csprojAssemblyReference.cache
+E:\Development\Projects\API_REST\obj\Debug\netcoreapp2.2\APIREST.csprojAssemblyReference.cache
+E:\Development\Projects\API_REST\obj\Debug\netcoreapp2.2\APIREST.csproj.CoreCompileInputs.cache
+E:\Development\Projects\API_REST\obj\Debug\netcoreapp2.2\APIREST.RazorAssemblyInfo.cache
+E:\Development\Projects\API_REST\obj\Debug\netcoreapp2.2\APIREST.RazorAssemblyInfo.cs
+E:\Development\Projects\API_REST\obj\Debug\netcoreapp2.2\APIREST.AssemblyInfoInputs.cache
+E:\Development\Projects\API_REST\obj\Debug\netcoreapp2.2\APIREST.AssemblyInfo.cs
+E:\Development\Projects\API_REST\obj\Debug\netcoreapp2.2\APIREST.dll
+E:\Development\Projects\API_REST\obj\Debug\netcoreapp2.2\APIREST.pdb
